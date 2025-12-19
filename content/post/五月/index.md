@@ -161,11 +161,6 @@ categories: 镜语录
 六月，希望我的四级证书能到手，也希望我能够做我所喜爱的所谓有氛围感的短视频
 
 
-<font color="#EA580C">最后，以这个视频来纪念我的第一款相机（Canon600D），这也是它留下的最后的影像</font>
-
-{{< video src="./600d.mp4" >}}
-
-
 <font color="#EA580C">汗暑无常，伏惟珍重</font>
 
 <font color="#EA580C">愿安好，我们六月见👋🏼</font>
