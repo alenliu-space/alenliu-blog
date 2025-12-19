@@ -6,7 +6,7 @@ pagination:
   path: page
 
 title: AlenLiu's blog
-copyright: 🫡AlenLiu嘅InfiniteSpace.
+copyright: 🗻AlenLiu-InfiniteSpace.
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -18,10 +18,10 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 中文
-        title: 🛰️AlenLiu's Blog
+        title: AlenLiu's Blog
         weight: 1
         params:
-            description: 🌋AlenLiu嘅InfiniteSpace.📸
+            description: 🗻AlenLiu-InfiniteSpace.
     # en:
     #     languageName: English
     #     title: Example Site
@@ -60,11 +60,11 @@ params:
     sidebar:
         comppact: false
         emoji: 💭
-        subtitle: 沉着冷静.无限进步🧗🏼‍♂️
+        subtitle: 沉着冷静.不断攀登🧗🏼‍♂️
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.png
+            local: false
+            src: "https://youke2.picui.cn/s1/2025/12/19/694554cdb07bc.jpg"
 
     article:
         math: true
@@ -75,7 +75,7 @@ params:
             lastmod: [":fileModTime", "lastmod"]
         license:
             enabled: true
-            default: Write by AlenLiu🫡
+            default: Write by AlenLiu
 
     comments:
         enabled: true
