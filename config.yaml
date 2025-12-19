@@ -18,7 +18,7 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 中文
-        title: AlenLiu's Blog
+        title: 🗻AlenLiu's Blog
         weight: 1
         params:
             description: 🗻AlenLiu-InfiniteSpace.
@@ -47,7 +47,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /img/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: "/img/favicon.ico" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2024
@@ -75,7 +75,7 @@ params:
             lastmod: [":fileModTime", "lastmod"]
         license:
             enabled: true
-            default: Write by AlenLiu
+            default: AlenLiu
 
     comments:
         enabled: true
