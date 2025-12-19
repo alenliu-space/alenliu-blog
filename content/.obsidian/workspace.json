@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "0e5f21e76c017ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df62b2c0aec73d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc54083168d59f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/反人性的磨砺场/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "656d776810d3ff75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/年中报告/浅谈上半年.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "浅谈上半年"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2057997c5addc638",
+    "type": "split",
+    "children": [
+      {
+        "id": "5896c6d9b76683fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49000d7cf31c99cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b4789b4271292f54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:思路",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "26ef1a59ad9de942",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "10c0328220296415",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c8fa7ebf8830a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526d9bcdf9709f77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "post/十月/index.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "38395b62eca66f52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "post/十月/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "a57548159447cd06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9715d7be8b882d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "post/年中报告/浅谈上半年.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "浅谈上半年 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "49000d7cf31c99cd",
+  "lastOpenFiles": [
+    "未命名.md",
+    "post/年中报告/浅谈上半年.md",
+    "post/年中报告/茶前闲话.md",
+    "post/Hugo小屋装修日志/归档.png",
+    "post/反人性的磨砺场/背景.jpg",
+    "post/关于离别/关于离别🪶.md",
+    "post/反人性的磨砺场/index.md",
+    "post/反人性的磨砺场/背景.jpg",
+    "post/年中报告/背景.png",
+    "post/年中报告",
+    "post/2024年末总结/index.md",
+    "post/建站一周年/index.md",
+    "post/建站一周年",
+    "_index.md",
+    "余诗敏批改.md",
+    "post/反人性的磨砺场/背景.jpg",
+    "page/archives/index.md",
+    "post/反人性的磨砺场",
+    "post/index.md",
+    "page/goods/香水.jpg",
+    "page/goods/210792838e1be4fdbffa6a1d3fb0447.jpg",
+    "page/goods/美津浓.jpg",
+    "page/goods/87bed573724ce3de8b01609b4912ab8.jpg",
+    "page/goods/432df343d59a0a3cfbf0b905c2e863b.jpg",
+    "page/about/index.md",
+    "categories/我的一些言语/_index.md",
+    "Excalidraw/AlenLiu--Drawing 2024-12-02 21.10.12.excalidraw.md",
+    "Excalidraw/AlenLiu--Drawing 2024-07-13 16.49.34.excalidraw.md",
+    "categories/年终总结/index.md",
+    "categories/年终总结/_index.md",
+    "categories/年终总结",
+    "post/十一月/index.md",
+    "post/2024年末总结",
+    "post/十月/index.md",
+    "post/五月/index.md",
+    "post/听雨闲话/index.md",
+    "post/时隔两个月的总结/index.md",
+    "post/四月中旬/index.md",
+    "post/Hugo小屋装修日志/index.md",
+    "post/十一月",
+    "page/links/index.md",
+    "post/听雨闲话",
+    "blog.linsnow.cn.md",
+    "post/Hugo小屋装修日志",
+    "post/时隔两个月的总结/火车.mp4",
+    "post/时隔两个月的总结",
+    "未命名.canvas"
+  ]
+}

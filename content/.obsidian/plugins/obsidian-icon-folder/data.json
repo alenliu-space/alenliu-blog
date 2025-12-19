@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "👨‍👨‍👦",
+      "〽",
+      "LiStopCircle",
+      "🎆",
+      "🥪"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "post/关于我的网站": "🤠",
+  "post/第一篇博客": "📘",
+  "post/四月中旬": "📷",
+  "post/五月": "🤔",
+  "post/时隔两个月的总结": "🍱",
+  "post/辩论": "📔",
+  "post/Hugo小屋装修日志": "🏡",
+  "post/听雨闲话": "✏",
+  "post/十月": "🌻",
+  "post/十一月": "🥪",
+  "post/2024年末总结": "🎆",
+  "post/反人性的磨砺场": "〽"
+}

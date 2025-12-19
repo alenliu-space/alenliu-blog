@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "华文宋体",
+  "enabledCssSnippets": [
+    "photo居中"
+  ],
+  "baseFontSize": 17,
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "showRibbon": true
+}
