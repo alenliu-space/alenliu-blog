@@ -139,7 +139,7 @@ params:
                     from: "Waline Notification <alenliu0@qq.com>"        
             locale:
                 admin: 💭幻想成为Up的Up
-                placeholder: 🎉很高兴你能留言评论~由于twikoo除了一些问题,所以暂且用waline
+                placeholder: 🎉很高兴你能留言评论~由于twikoo出了一些问题,所以暂且用waline
             reaction: false
 
         twikoo:
