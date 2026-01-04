@@ -64,7 +64,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: "https://youke2.picui.cn/s1/2025/12/19/694554cdb07bc.jpg"
+            src: https://gallery.alenliu.space/life/e5b414de3aae85862ef9f1ec9b508123.jpg
 
     article:
         math: true
