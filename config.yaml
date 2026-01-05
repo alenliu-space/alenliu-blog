@@ -144,9 +144,7 @@ params:
 
         twikoo:
             envId: https://twikoovercel-dun.vercel.app
-            region: ap-guanghzou
-            path:
-            lang:
+            lang: zh-CN
 
         # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
         cactus:
