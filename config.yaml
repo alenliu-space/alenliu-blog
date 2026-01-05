@@ -81,7 +81,7 @@ params:
         enabled: true
         provider: twikoo
         twikoo:
-            envId: https://twikoovercel-dun.vercel.app
+            envId: https://twikoovercel-dun.vercel.app/api/index
             lang: zh-CN
 
         # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
