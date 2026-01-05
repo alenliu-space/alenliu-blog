@@ -80,68 +80,6 @@ params:
     comments:
         enabled: true
         provider: twikoo
-
-        disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
-            admin:
-            adminLabel:
-
-        utterances:
-            repo:
-            issueTerm: pathname
-            label:
-
-        beaudar:
-            repo:
-            issueTerm: pathname
-            label:
-            theme:        
-
-        remark42:
-            host:
-            site:
-            locale:
-
-        vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-            autoCreateIssue: false
-
-        # Waline client configuration see: https://waline.js.org/en/reference/component.html
-        waline:
-            serverURL: https://waline-1-k8488359.deta.app/
-            lang: zh-CN
-            pageview: true
-            search: true
-            emoji: 
-                - https://unpkg.com/@waline/emojis@1.2.0/alus
-                - https://unpkg.com/@waline/emojis@1.2.0/bmoji
-                - https://unpkg.com/@waline/emojis@1.2.0/soul-emoji
-
-            requiredMeta:
-                - name
-                - email
-                - url
-            notification:
-                enable: true
-                email:
-                    host: smtp.qq.com
-                    port: 465
-                    secure: true
-                    auth:
-                        user: alenliu0@qq.com
-                        pass: xdlpgwgdeablcigg
-                    from: "Waline Notification <alenliu0@qq.com>"        
-            locale:
-                admin: 💭幻想成为Up的Up
-                placeholder: 🎉很高兴你能留言评论~由于twikoo出了一些问题,所以暂且用waline
-            reaction: false
-
         twikoo:
             envId: https://twikoovercel-dun.vercel.app
             lang: zh-CN
